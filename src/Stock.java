@@ -1,4 +1,4 @@
-// Stock Page Class
+// The Stock Page Class
 // imported libraries
 import java.awt.*;
 import java.awt.event.*;
