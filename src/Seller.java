@@ -1,4 +1,4 @@
-// Seller Page Class
+// The Seller Page Class
 // imported libraries
 import java.awt.*;
 import java.awt.event.*;
