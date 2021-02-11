@@ -1,4 +1,4 @@
-// Profile Page Class
+// the Profile Page Class
 // imported libraries
 import java.awt.*;
 import java.awt.event.*;
